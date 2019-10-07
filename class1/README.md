@@ -2,6 +2,7 @@
 
 * 1:
   * "like LC101" = prep work, required attendance, assignments, Mentors = TAs so rely on them
+  * also "like LC101" = you're not gonna wanna fall behind
   * we'll talk about MVP later
 * 2: ask me about those contextLoads I dare you
   * will share the slides later so you have the links
