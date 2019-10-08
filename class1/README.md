@@ -30,15 +30,17 @@
   * things that don't: personal websites, video games
   * yourself == don't just copy a template, group or solo
   * we'll talk about scoping features more later - again, mentors will help
-* 8: rome wasn't built in a day and your app won't be either
+* 10: rome wasn't built in a day and your app won't be either
   * use the car analogy: car got multiple parts and multiple users
   * epic == make the car, story == add the steering wheel
   * as a PERSON I want to DRIVE vs as a COMMUTER I want to HAVE AN EFFICIENT DRIVE TO WORK
   * remember MVP? Know what the Model T is?
-* 9:
+* 11:
   * backlog == trello and i'll be showing you some more of it in examples
   * "significant features" can be really difficult
   * what's an epic on a car?
   * what's too big an epic on a car? replace transmission - lots of steps and impacted parts
   * what's too small? put air in tires - user story
   * what's just right? body kit - take off old bumper, put on new one
+* 12:
+  * demo Trello
