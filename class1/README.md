@@ -13,15 +13,32 @@
   * will share the slides later so you have the links
   * gotta talk to users to figure out what features are valuable! don't forget!
 * 3:
+  * weekly updates in a 'standup' format
+  * also Koko for beyond-Liftoff qs (placement, apprenticeship)
+  * I'm here too for additional qs about industry and talking too much
+* 4:
   * capstone is the crux of your work with LC101/Liftoff
   * your mentors will know what sounds too big, don't worry
   * CRUD = Create Read Update Delete
   * MVPs can be brutally thin! doesn't have to be pretty
   * passionate also includes tech stack! though Spring Boot is a solid choice
-* 6: rome wasn't built in a day and your app won't be either
+* 5:
+  * spring boot is pretty marketable, hint hint
+  * ...but you're gonna have to learn more! and on your own this time
+  * can start with templates (cheese) but you're gonna have to add something
+  * things that solve problems: job dbs, restaurant menu builders
+  * things that don't: personal websites, video games
+  * yourself == don't just copy a template, group or solo
+  * we'll talk about scoping features more later - again, mentors will help
+* 8: rome wasn't built in a day and your app won't be either
   * use the car analogy: car got multiple parts and multiple users
   * epic == make the car, story == add the steering wheel
   * as a PERSON I want to DRIVE vs as a COMMUTER I want to HAVE AN EFFICIENT DRIVE TO WORK
   * remember MVP? Know what the Model T is?
-* 7:
-  * backlog == trello
+* 9:
+  * backlog == trello and i'll be showing you some more of it in examples
+  * "significant features" can be really difficult
+  * what's an epic on a car?
+  * what's too big an epic on a car? replace transmission - lots of steps and impacted parts
+  * what's too small? put air in tires - user story
+  * what's just right? body kit - take off old bumper, put on new one
