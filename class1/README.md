@@ -34,8 +34,6 @@
   * use the car analogy: car got multiple parts and multiple users
   * epic == make the car, story == add the steering wheel
   * as a PERSON I want to DRIVE vs as a COMMUTER I want to HAVE AN EFFICIENT DRIVE TO WORK
-  * remember MVP? Know what the Model T is?
-* 11:
   * backlog == trello and i'll be showing you some more of it in examples
   * "significant features" can be really difficult
   * what's an epic on a car?
