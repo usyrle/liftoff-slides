@@ -30,7 +30,20 @@
   * things that don't: personal websites, video games
   * yourself == don't just copy a template, group or solo
   * we'll talk about scoping features more later - again, mentors will help
-* 10: rome wasn't built in a day and your app won't be either
+* 9:
+  * waterfall looks an awful lot like how I learned project mgmt
+  * it's from 1970 dude
+  * agile is "hot" but don't always believe when you hear it
+  * all about incremental improvement - "iterations" - want me to go back to the circle?
+  * ignore the "majority of organizations" thing up top - corps tend to the left, startups to the right
+  * which one sounds more fun? be honest with yourself: it's a trick question, both are good in certain respects
+  * four fundamental principles: talk to your users, provide some value, TALK TO YOUR USERS, TALK TO YOUR USERS OFTEN.
+* 10:
+  * I was bad at all of these as a dev and I'm bad at all of them now because I'm a bad boy
+  * How many times did you sit there and rerun your Spring Boot apps after making only minor changes? No changes?
+  * Lots of flavors of agile: Scrum, Kanban, SAFe are a few
+  * Let's talk [Scrum](https://www.atlassian.com/agile/scrum) more next time
+* 11: rome wasn't built in a day and your app won't be either
   * DON'T MAKE ANY ONE BLANK TOO BIG
   * as a PERSON I want to DRIVE so that I CAN GET PLACES vs as a COMMUTER I want to HAVE AN EFFICIENT CAR so that I DON'T SPEND AS MUCH MONEY ON GAS
   * use the car analogy: car's got multiple parts and multiple users
@@ -41,5 +54,5 @@
   * what's too big an epic on a car? replace transmission - lots of steps and impacted parts
   * what's too small? put air in tires - user story
   * what's just right? body kit - take off old bumper, put on new one
-* 12:
+* 13:
   * demo Trello
