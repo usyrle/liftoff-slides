@@ -31,9 +31,10 @@
   * yourself == don't just copy a template, group or solo
   * we'll talk about scoping features more later - again, mentors will help
 * 10: rome wasn't built in a day and your app won't be either
-  * use the car analogy: car got multiple parts and multiple users
+  * DON'T MAKE ANY ONE BLANK TOO BIG
+  * as a PERSON I want to DRIVE so that I CAN GET PLACES vs as a COMMUTER I want to HAVE AN EFFICIENT CAR so that I DON'T SPEND AS MUCH MONEY ON GAS
+  * use the car analogy: car's got multiple parts and multiple users
   * epic == make the car, story == add the steering wheel
-  * as a PERSON I want to DRIVE vs as a COMMUTER I want to HAVE AN EFFICIENT DRIVE TO WORK
   * backlog == trello and i'll be showing you some more of it in examples
   * "significant features" can be really difficult
   * what's an epic on a car?
