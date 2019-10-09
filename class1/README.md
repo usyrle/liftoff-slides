@@ -13,9 +13,14 @@
   * will share the slides later so you have the links
   * gotta talk to users to figure out what features are valuable! don't forget!
 * 3:
-  * weekly updates in a 'standup' format
-  * also Koko for beyond-Liftoff qs (placement, apprenticeship)
-  * I'm here too for additional qs about industry and talking too much
+  * y'all need to sign the code of conduct: we take it seriously
+  * Community Engagement Manager: Koko, kossivi@launchcode.org, does the Canvas class + gets you into the apprenticeship bits
+  * Instructor: yours truly, I'm trying to help that prep stick in yer brains
+  * ask us both for help too, we're here as add. resources
+  * Mentors: Fred, Jacob, Lindsay, Kyle - lean on them, they're going to be your leads and guides - kind of scrum masters
+  * and you: need to do prolly 15-20hrs work on your own
+  * you need to tackle a capstone on your own
+  * and you'll need to provide weekly updates, in a 'standup' format (first time next week!)
 * 4:
   * capstone is the crux of your work with LC101/Liftoff
   * your mentors will know what sounds too big, don't worry
