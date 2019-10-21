@@ -49,6 +49,7 @@
   * remember: users aren't always customers!
   * it's hard to delete an account because tumblr doesn't want you to!
   * there's also dark ux - it's like hidden fees, but in design. ever click an x in an ad, but miss it by a pixel?
+  * oh and also accessibility: colorblindness, or even just blindness
 * 7:
   * feeds into plan - if you know what it looks like it's easier to code
   * will help you expose problems early, rather than after you've already spent 8 hrs coding!
