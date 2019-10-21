@@ -36,5 +36,42 @@
   * dependencies also important - esp in groups! prioritize the initial deps (i.e. "install React") to do the later ones
   * build 'tracks of work' on your dep chains, so you do all the stuff at once - or one dev in your group does all the stuff in a chain
   * remember: 3-5 features for your capstone - 'aggressive' prioritization means you cut off the less-valuable features (epics), and you cut out stories that don't meet the valuable features!
-* groups
+* 6:
+  * avg salary according to glassdoor = ~90k - also in pretty high demand
+  * we can't learn to be ux people, but it's important to understand some principles
+  * if you don't have users then you dont get $$$
+  * "if you build it they will come" - not always, but they'll stay if you have good user experiences
+  * how many times have you used a shopping site only to find out the checkout process sucks? think of how easy it is in amazon
+  * tesla's really pushing the elite / futuristic angle, and it makes you want to buy a car
+  * you can tell how much money an election campaign has from how nice the website is
+  * [if you're curious, the winner's site is much nicer](http://web.archive.org/web/20160728073509/http://billeigel.com/issues)
+  * remember: users aren't always customers!
+  * it's hard to delete an account because tumblr doesn't want you to!
+  * there's also dark ux - it's like hidden fees, but in design. ever click an x in an ad, but miss it by a pixel?
+* 7:
+  * feeds into plan - if you know what it looks like it's easier to code
+  * will help you expose problems early, rather than after you've already spent 8 hrs coding!
+  * engineering time is expensive - much cheaper to draw a picture and toss, than to code a whole app then toss
+  * not only the look, but the app flow - in cheese, what happens after making a new cheese? a new menu?
+  * once you have the look + flow down it's easier to generate user stories - I know this firsthand!
+* 8:
+  * not required but useful for making sure your work matches your wireframe! since wireframes can capture actions
+  * like the standard user story format - three blanks, don't make them too big
+  * even if you don't use BDD, let's think about how to  break down actions into code-friendly user stories
+  * back to the car example! when user does X, Y happens
+  * important relationship to the AS A ___ part: the 'persona' is what you're designing for
+  * user personas - won't cover in much detail, but capture the 'who'
+  * in BDD format, capture the person taking the action: regular user or admin, for example
+  * example: user clicks login button, goes to login page. two user stories right there: button shows up on the home page, button goes to a new login page - both should be in your wireframe and your user stories, and both can have BDD!
+  * real life example: I use it to make sure my devs code to match the design - if it doesn't meet the acceptance criteria, I'll say 'no' and tell them why
+  * acceptance criteria == how a story is considered 'done'
+  * usually not devs writing acceptance, more product-oriented
+  * BDD also super useful for TDD (XP), if you'd like to hear more about that ask me!
+* 9:
+  * low + high both fine, more important to capture the high-level flow
+  * don't worry, these are professionals - your own wireframes don't need too much detail
+  * just about all of them follow grids - you should do the same!
+* 10: look @ both project outline and project planning submissions
+* 12:
   * MAKE STANDUP SHORT
+  * lean on mentor for wireframe+mvp help
