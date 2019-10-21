@@ -16,6 +16,7 @@
   * in software, roles are left to team - lots of overlap with scrum in implementation
   * another carryover from Toyota: limit wip so you can focus+finish
   * anything at the top of the backlog is what's next... which means you're always in the backlog making sure the most valuable thing is next
+  * above all - it's most agile to pick and use what works - iterate!
 * 2: hope you remember the user story examples from last week!
   * right-sized isn't necessarily bite-sized, but usually should be
   * use T-shirt system: Small, Medium, Large - bigger than Large, should be separate stories
