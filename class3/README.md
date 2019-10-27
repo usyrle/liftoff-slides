@@ -47,3 +47,9 @@
   * MIT probably most permissive, apache only slightly less
   * CC used for non-code, and with several different flavors
   * Wikipedia uses CC-BY-SA-3.0 or 4.0!
+* 8:
+  * mine's not the best example, sorry
+  * open source contribution looks GREAT on a resume, as does regular contribution
+  * don't have to do code, try docs or styling
+  * html - hyper-text MARKUP language, vs Markdown
+  * would recommend linking thinks like your linkedin, offering a better professional summary
