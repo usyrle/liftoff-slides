@@ -53,3 +53,18 @@
   * don't have to do code, try docs or styling
   * html - hyper-text MARKUP language, vs Markdown
   * would recommend linking thinks like your linkedin, offering a better professional summary
+* 9:
+  * my devs get more recruiter messages than I do, and I get a lot
+  * yes, it's more social media, so I get it if you don't want one
+  * it's basically a resume so keep it clean boys and girls - avoid things like politics, clickbait, etc.
+  * add people on linked in! yes, your classmates and mentors, but also from your past positions, during your apprenticeship
+  * which - you can totally find career mentors via linkedin, hint hint
+  * open to job offers, also if updates show up for job changes etc.
+  * has a really cute autoreply function
+* 10: use the resume template!
+  * LC101 and Liftoff totally belong on your resume
+  * Objective statement should be a short summary of aims and what you bring to the table
+  * link to your github, linkedin, and capstone!
+  * more than maybe two pages, recruiters literally don't read (they get SO MANY)
+  * soft skills super important imo - anyone can code, not everyone can problem solve
+* 14: 11th is when your first project review is; you lucked out with an extra week!
