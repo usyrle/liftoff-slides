@@ -21,23 +21,29 @@
   * gitlab is where many migrated after ms bought github
   * putty is the only choice for ssh terminal, I've yet to meet anything close
   * nothing quite like a dev with some time and a problem to hammer on - multiply by, like, the whole world and you get oss
-  * https://alternativeto.net/
 * 4:
   * stallman is def flawed, but was fundamental to OSS as it is today
   * GNU doesn't really stand for anything, don't worry (GNU's Not Unix)
   * GNU manifesto one of the first
-  * reaction to industry moving to proprietary software esp. wrt unix (wait for it)
+  * reaction to industry moving to proprietary software esp. wrt unix
   * torvalds has his *cough* flaws too - "f!@# nvidia" comes to mind
-  * released the first GPL os kernel
+  * released the first GPL OS kernel
   * linux is de facto server choice in many use cases, and very dev-friendly
   * combination of GNU software + linus' kernel = linux, + additional proprietary bits = linux as we know it today
-  * won't dive into linux flavors
+  * won't dive into linux flavors - you're on your own for that one!
+  * okay even eric raymond is less-than-perfect, sorry
+  * OSI founded after netscape started releasing source code for some products - wanted to find benefits of open software for companies
+  * free software foundation activism not suitable for companies selling software
+  * "open source" label less threatening to corporations, and quickly widely adopted
+  * OSI basically promotes and defends the open source label + definitions
   * ballmer - "linux is a cancer" - and the halloween documents
   * remember openjdk vs oracle jdk talk in lc101?
-  * blackduck estimates something like 80-90% of code in 'production' today is open source
+  * oracle sued google for using java in android, and lost hard
+  * also played some dumb stuff with mysql, changing the license and commercializing
+  * [blackduck claims on avg 57% of codebases are open source](https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/2018-ossra.pdf)
 * 5: I'm definitely not a lawyer
   * copyleft = propagating license, derivatives have to be gpl
   * also strong and weak copyleft, with lesser gpl making you only release modifications to the software itself
   * MIT probably most permissive, apache only slightly less
   * CC used for non-code, and with several different flavors
-  * Wikipedia uses CC-BY-SA-4.0!
+  * Wikipedia uses CC-BY-SA-3.0 or 4.0!
