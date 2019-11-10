@@ -1,4 +1,4 @@
-# Notes to Class 2 slides
+# Notes to Class 3 slides
 
 * 0: subbing for kyle for three classes
   * lecture will get shorter + focus more on career items
