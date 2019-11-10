@@ -47,3 +47,4 @@
 * 6:
   * my advice is often to pull on whomever you have as a mentor - and code reviews are a good 'formal' way to get their help
   * (scheduling meetings can be surprisingly effective!)
+* 13: a classic code interview question!
