@@ -45,3 +45,6 @@
   * and - ASK FOR REQUIREMENTS
   * the source claims this is a senior-java-dev interview q, so really - don't worry, it's an example only!
 * 6: keeping break short so we can get to project reviews
+* 7:
+  * my advice is often to pull on whomever you have as a mentor - and code reviews are a good 'formal' way to get their help
+  * (scheduling meetings can be surprisingly effective!)
