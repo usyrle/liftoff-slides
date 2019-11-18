@@ -1,4 +1,4 @@
-# Notes to Class 2 slides
+# Notes to Class 3 slides
 
 * 0: subbing for kyle for three classes
   * lecture will get shorter + focus more on career items
@@ -62,6 +62,7 @@
   * open to job offers, also if updates show up for job changes etc.
   * has a really cute autoreply function
 * 10: use the resume template!
+  * template available on Canvas, look on Dec 3rd
   * LC101 and Liftoff totally belong on your resume
   * Objective statement should be a short summary of aims and what you bring to the table
   * link to your github, linkedin, and capstone!
