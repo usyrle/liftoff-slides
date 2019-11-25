@@ -69,4 +69,3 @@
   * more than maybe two pages, recruiters literally don't read (they get SO MANY)
   * soft skills super important imo - anyone can code, not everyone can problem solve
 * 14: 11th is when your first project review is; you lucked out with an extra week!
-* 15: project review is a drop deadline
