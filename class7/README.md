@@ -21,3 +21,6 @@
   * ACTION: what did you do to help reach the goal? or, what was your specific contribution on the team?
   * RESULT: the one everyone forgets about! make 100% sure to explain the outcome
   * pretty easy to talk about ACTION for a while, but you need to close the evidence and back up the claim. RESULT does that, it confirms it to the interviewer
+* 6:
+  * I'm taking attendance / running assignments for lindsay
+  * mentors: I have rubrics and pens for both assignments
