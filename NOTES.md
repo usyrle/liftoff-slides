@@ -11,4 +11,5 @@
   * kanban is the sticky note approach - you have a list of stickies, grab the 'top' one and work it till it's done
   * xp is Xtremely Popular right now - improves code quality, but not necessarily speed!
   * safe is corporate big agile; i think of it like a pyramid of scrums
-  * my team does mostly kanban with some scrum practices salt-and-peppered in
+  * my boeing team did mostly kanban, all XP, with some scrum practices salt-and-peppered in
+  * my mc team does mostly scrum, with tests but not pairs, and in a SAFe world
